@@ -4,7 +4,7 @@
  * Author	:WISE.KIM
  * Date		:2014/12/18
  * E-mail	:129@jinzhe.net
- * Demo 	:http://jinzhe.net/demo/wiseSlider/
+ * Demo 	:http://jinzhe.net/demo/wiseAudio/
  */
 (function($){
 	var isTouch = ('ontouchstart' in window),click = isTouch ? 'touchstart' : 'click';
